@@ -2,5 +2,6 @@ https://www.youtube.com/watch?v=ptfUwPJbGlQ
 https://codepen.io/bradtraversy/pen/bGbREWg
 https://github.com/Annie-Huang/aos-art-page
 
+https://github.com/michalsnik/aos
 https://fonts.google.com/
 https://fonts.google.com/specimen/Oswald?selection.family=Oswald
